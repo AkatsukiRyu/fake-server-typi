@@ -1,5 +1,6 @@
 {
     "users": [],
+    "sessions": [],
     "tasks": {
         "todos": [],
         "inprogress": [],
