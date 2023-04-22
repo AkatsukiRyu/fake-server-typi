@@ -1,5 +1,16 @@
 {
-    "users": [],
+    "users": [
+        {
+            "email": "khang@gmail.com",
+            "fullname": "Khang Nguyen",
+            "password": "123"
+        },
+        {
+            "email": "test@gmail.com",
+            "fullname": "Something Tested",
+            "password": "123"
+        }
+    ],
     "sessions": [],
     "tasks": {
         "todos": [],
